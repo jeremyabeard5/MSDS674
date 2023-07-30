@@ -1,0 +1,1 @@
+"C:\Program Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3\python.exe" "C:\Users\jerem\OneDrive\Documents\School\_REGIS\2023-05_Summer\MSDS674\Week5\OverwriteFS\OverwriteFS.py" learn_user 87e3b8ee4d7247c6ba19853bb981584c  TX_reservoirs_recent_JB https://www.waterdatafortexas.org/reservoirs/statewide/recent-conditions.geojson

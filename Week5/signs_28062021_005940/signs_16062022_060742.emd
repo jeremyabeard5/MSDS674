@@ -1,0 +1,50 @@
+{
+    "Framework": "arcgis.learn.models._inferencing",
+    "ModelConfiguration": "_FeatureClassifier",
+    "ModelType": "ObjectClassification",
+    "InferenceFunction": "ArcGISObjectClassifier.py",
+    "MetaDataMode": "Imagenet",
+    "ExtractBands": [
+        0,
+        1,
+        2
+    ],
+    "CropSizeFixed": 1,
+    "BlackenAroundFeature": 0,
+    "ImageSpaceUsed": "PIXEL_SPACE",
+    "Classes": [
+        {
+            "Value": 1,
+            "Name": "speed",
+            "Color": [
+                46,
+                222,
+                17
+            ]
+        },
+        {
+            "Value": 2,
+            "Name": "stop",
+            "Color": [
+                57,
+                70,
+                185
+            ]
+        }
+    ],
+    "SupportsVariableTileSize": false,
+    "ArcGISLearnVersion": "1.8.4",
+    "ModelFile": "signs_16062022_060742.pth",
+    "ImageHeight": 224,
+    "ImageWidth": 224,
+    "LearningRate": "2.0893e-03",
+    "ModelName": "FeatureClassifier",
+    "backend": "tensorflow",
+    "ModelParameters": {
+        "backbone": "MobileNetV2",
+        "backend": "tensorflow"
+    },
+    "resize_to": 224,
+    "IsMultispectral": false,
+    "ModelFormat": "NHWC"
+}

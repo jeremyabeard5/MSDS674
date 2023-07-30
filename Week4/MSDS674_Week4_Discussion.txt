@@ -1,0 +1,14 @@
+Explain the purpose of a map topology and list the main types of topological errors.
+The purpose of a map topology is to describe the lines or polygons that make up a region of the world. Topology can tell us the points which make up a road, or the specific area that a city takes up. However, there are definitely imperfections and errors that can occur with map topologies and most of them tend to be related to inaccuracies in continuity of the lines or shapes. Here are a few of the errors which could occur
+
+https://www.usgs.gov/ngp-standards-and-specifications/topology-and-network-errors
+
+https://docs.qgis.org/3.28/en/docs/gentle_gis_introduction/topology.html
+
+
+
+
+Explain the difference between&nbsp;map scale, display scale,&nbsp;and&nbsp;reference scale.
+
+
+What is the difference between feature editing and schema changes?

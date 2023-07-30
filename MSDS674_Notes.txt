@@ -1,2 +1,33 @@
 MSDS 674: GIS Notes
 July 2023
+
+WEEK 2
+
+READING
+CH2
+"geographers, statisticians, and others characterize measurements or attributes as belonging to one of a set of data types: 
+	nomical
+		text values (names of states forex)
+	categorical
+		different groups or categories
+	ordinal
+		rank based on ### (classes of soil, school grades, etc)
+	interval
+		celsius/fahrenheit is good example, 0 in this case doesn't mean an absence of temperature
+	ratio
+		precipitation data, have a 0-point reference (0 means absence of rain forex)
+		supports add/subtr/mult/div
+		any scale that supports negative #'s is interval
+		
+graduated symbol map vs. proportional symbol map
+	graduated: only 3 or so symbols, each dictating a range
+	proportional: continuous sizes of symbols
+
+DISCUSSION
+1. What type of datasets (vector, raster, etc.) are best displayed with each of these types of maps?
+
+	Thematic
+	Categorical
+	Interval
+
+2. Using an internet search, find an example of each of the three map types listed above. Label each map and the type of data that it best displays. Be sure to cite any sources used.
